@@ -1,4 +1,0 @@
-<html>
-<head>one</head>
-<body>two</body>
-</html>
